@@ -1,4 +1,5 @@
-﻿# Card Game Simulator
+﻿[![build-and-run](https://github.com/maciejgajek/card-game-simulator/actions/workflows/build.yml/badge.svg)](https://github.com/maciejgajek/card-game-simulator/actions/workflows/build.yml)
+# Card Game Simulator
 
 Unity-independent simulation engine for a turn-based card game, built in C#. Supports headless tournaments between pluggable AI agents, used to test and evaluate them to help improve game balance.
 
